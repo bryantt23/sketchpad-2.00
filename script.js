@@ -1,3 +1,4 @@
+
 $(document).ready(function() {
 	generateGrid(40, 1);
 
